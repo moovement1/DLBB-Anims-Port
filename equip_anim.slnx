@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="plugin/equip_anim.vcxproj" Id="20464ba0-cd8e-4d6b-8c17-d9636bfb7aee" />
+</Solution>
